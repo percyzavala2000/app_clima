@@ -1,0 +1,17 @@
+{
+  "name": "03-app-clima",
+  "version": "0.0.1",
+  "description": "Consultar clima",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "author": "Percy zavala",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "colors": "^1.4.0",
+    "inquirer": "^7.3.3"
+  }
+}
